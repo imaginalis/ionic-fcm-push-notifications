@@ -20,3 +20,5 @@ Subscribe/unsubscribe to FCM topics and receive the push notifications.
 ## More information
 
 + Blog post: [Simple push notifications app with Ionic 4 and Firebase Cloud Messaging](https://blog.mestwin.net/get-your-simple-push-notifications-app-with-ionic-4-and-firebase-cloud-messaging/)
+
++ Server-side Spring Boot application: [spring-boot-fcm-push-notifications](https://github.com/imaginalis/spring-boot-fcm-push-notifications)
