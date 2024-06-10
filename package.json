@@ -14,7 +14,7 @@
     "@angular/animations": "5.2.11",
     "@angular/common": "5.2.11",
     "@angular/compiler": "5.2.11",
-    "@angular/compiler-cli": "5.2.11",
+    "@angular/compiler-cli": "18.0.2",
     "@angular/core": "11.0.5",
     "@angular/forms": "5.2.11",
     "@angular/http": "5.2.11",
@@ -44,7 +44,7 @@
     "zone.js": "0.8.29"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "3.2.1",
+    "@ionic/app-scripts": "3.2.4",
     "typescript": "~2.8.0"
   },
   "description": "An Ionic project",
